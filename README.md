@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mfarooq28
+- 👋 Hi, I’m Mr. Muhammad Farooq Github ID @mfarooq28
 - 👀 I’m interested in Natural Language Processing & Data Science
 - 🌱 I’m currently learning NPL Module.
 - 💞️ I’m looking to collaborate on NPL Projects
