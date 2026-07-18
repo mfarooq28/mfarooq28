@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mfarooq28
-- 👀 I’m interested in Natural Language Processing
+- 👀 I’m interested in Natural Language Processing & Data Science
 - 🌱 I’m currently learning NPL Module.
 - 💞️ I’m looking to collaborate on NPL Projects
 - 📫 How to reach me muhammad.phdcs182@iiu.edu.pk
