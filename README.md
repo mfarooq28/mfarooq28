@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mr. Muhammad Farooq Github ID @mfarooq28
 - 👀 I’m interested in Natural Language Processing & Data Science
-- 🌱 I’m currently learning NPL Module.
+- 🌱 I’m currently working PhD Thesis NPL Module.
 - 💞️ I’m looking to collaborate on NLP and Agentic AI Projects
 - 📫 How to reach me muhammad.phdcs182@iiu.edu.pk
 -    International Islamic University, Islamabad PAKISTAN
