@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mr. Muhammad Farooq Github ID @mfarooq28
+- 👋 Hi, I’m Mr. Muhammad Farooq my Github ID @mfarooq28. I welcome the visitors on my page.
 - 👀 I’m interested in Natural Language Processing & Data Science
 - 🌱 I’m currently working PhD Thesis NPL Module.
 - 💞️ I’m looking to collaborate on NLP and Agentic AI Projects
