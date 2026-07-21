@@ -3,7 +3,7 @@
 - 🌱 I’m currently working PhD Thesis NPL Module.
 - 💞️ I’m looking to collaborate on NLP and Agentic AI Projects
 - 📫 How to reach me muhammad.phdcs182@iiu.edu.pk
--  <img width="32" height="32" alt="icons8-university-64" src="https://github.com/user-attachments/assets/c659c65a-34e7-49bb-b0ed-3fa9b2b95f33" />
+-  <img width="26" height="26" alt="icons8-university-64" src="https://github.com/user-attachments/assets/c659c65a-34e7-49bb-b0ed-3fa9b2b95f33" />
   International Islamic University, Islamabad PAKISTAN
 -    WhatsApp @mfarooq77
 <!---
